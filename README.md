@@ -1,6 +1,26 @@
 # Medical Image Segmentation with Multimodal Learning
 ## Technical Documentation
 
+![WhatsApp Image 2025-05-07 at 21 13 34](https://github.com/user-attachments/assets/55544941-d2d1-468d-8ad9-7fc7d4bcfbcc)
+
+![WhatsApp Image 2025-05-07 at 21 22 21](https://github.com/user-attachments/assets/2ff5fd95-bbef-4670-9dec-5b0c75d64b80)
+![Screenshot 2025-04-25 at 11 18 23 AM](https://github.com/user-attachments/assets/a30d9ae2-def7-4ae5-910a-3e5616be34eb)
+
+Data Efficiency Analysis:
+  Maintained 83% performance with 90% of the data
+  Effective even in low-data scenarios
+Robustness Analysis:
+  Handles anatomical variability
+  Adapts to complex structures
+
+
+
+
+![Screenshot 2025-04-25 at 11 14 51 AM](https://github.com/user-attachments/assets/adf593f5-b17e-4023-8a4d-d0709a57e1fe)
+
+![Screenshot 2025-04-11 at 1 43 15 PM](https://github.com/user-attachments/assets/f9526a71-992a-4edf-a19e-d4b8d3b1d7b1)
+
+
 ### 1. Implementation Overview
 
 #### 1.1 Core Technologies
@@ -12,9 +32,15 @@
   - Llama-2 (Meta AI)
   - TensorBoardX (for visualization)
 
+
+<img width="521" alt="pipeline" src="https://github.com/user-attachments/assets/2e3be146-f62a-4a38-8311-8514deddec68" />
+
+
+
 #### 1.2 System Requirements
 - **Operating System**: Linux (Ubuntu recommended) / Windows with WSL
 - **GPU**: NVIDIA GPU with CUDA support (45GB+ VRAM recommended)
+
 - **RAM**: 64GB+ recommended
 - **Storage**: 100GB+ free space
 
